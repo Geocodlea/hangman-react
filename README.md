@@ -1,3 +1,3 @@
 ## Simple React Hangman Game
 
-### Online Example: https://hangman-react-bay.vercel.app/
+### You can check the online example: [here](https://hangman-react-bay.vercel.app/)
